@@ -1,14 +1,14 @@
 # Hi, I'm Parthiban Selvaraj
 
-Senior Software Engineer at **Sky UK** based in Brentwood, UK, with 8 years of experience in embedded Linux systems and networking technologies.
+Senior Software Engineer at **Comcast Sky ** based in London, UK.
 
 ## What I Do
 
 I specialize in **embedded systems development for network devices**, including multi-WAN routers, gateways, and broadband infrastructure equipment. I primarily contribute to open-source projects that power millions of devices worldwide, creating robust and scalable networking solutions for residential and business broadband infrastructure.
 
-As a core contributor to the **RDK open-source ecosystem**, I focus on software architecture and design, building modular components that enhance system maintainability and extensibility. I've architected features like WAN failover mechanisms, inter-device communication frameworks, and parallel scanning policies that optimize network connectivity. My approach emphasizes creating generic, reusable solutions that accommodate diverse hardware platforms and WAN technologies—from DOCSIS and xPON to LTE and WiFi.
+As a core contributor to the **RDK open-source ecosystem**, I focus on software architecture and design, building modular components that enhance system maintainability and extensibility. I've architected features like WAN failover mechanisms, inter-device communication frameworks, and scanning policies that optimize network connectivity. My approach emphasizes creating generic, reusable solutions that accommodate diverse hardware platforms and WAN technologies—from DOCSIS and xPON to LTE and WiFi.
 
-Beyond feature development, I'm deeply involved in **system-level design and modularization**. I design software components that integrate seamlessly across different layers—from kernel drivers and hardware abstraction layers to application-level services. This includes implementing multi-threaded architectures, socket-based communication protocols, and designing APIs that enable collaboration between various stakeholders in the open-source community. I work extensively with Yocto build systems, Broadcom and Intel SoCs, and contribute to making embedded Linux systems more reliable and performant for next-generation broadband applications.
+Beyond feature development, I'm deeply involved in **system-level design and modularization**. I design software components that integrate seamlessly across different layers—from kernel drivers and hardware abstraction layers to application-level services. This includes collaboration between various stakeholders in the open-source community. I work extensively with Yocto build systems, Broadcom and Intel SoCs, and contribute to making embedded Linux systems more reliable and performant for next-generation broadband applications.
 
 ## Tech Stack
 
@@ -38,12 +38,18 @@ Beyond feature development, I'm deeply involved in **system-level design and mod
 
 As one of the **core developers and architects** in the RDK Central community, I actively contribute to several critical broadband infrastructure projects:
 
-- [**WAN Manager**](https://github.com/rdkcentral/wan-manager) - Core WAN management framework for RDK-B devices
-- [**DHCP Manager**](https://github.com/rdkcentral/dhcp-manager) - DHCPv4/v6 client and configuration management
-- [**EPON Manager**](https://github.com/rdkcentral/epon-manager) - Ethernet Passive Optical Network management
-- [**RDK-B HAL Interface - EPON**](https://github.com/rdkcentral/rdkb-halif-epon) - Hardware abstraction layer for EPON devices
-- [**Inter-Device Manager**](https://github.com/rdkcentral/inter-device-manager) - Cross-device communication framework for smart homes
-- [**Meta RDK WAN**](https://github.com/rdkcentral/meta-rdk-wan) - Yocto layer for WAN components integration
+<div align="center">
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| 🌐 **WAN Manager** | Core WAN management framework for RDK-B devices | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/wan-manager) |
+| 🔌 **DHCP Manager** | DHCPv4/v6 client and configuration management | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/dhcp-manager) |
+| 📡 **EPON Manager** | Ethernet Passive Optical Network management | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/epon-manager) |
+| ⚙️ **RDK-B HAL Interface - EPON** | Hardware abstraction layer for EPON devices | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/rdkb-halif-epon) |
+| 🏠 **Inter-Device Manager** | Cross-device communication framework for smart homes | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/inter-device-manager) |
+| 📦 **Meta RDK WAN** | Yocto layer for WAN components integration | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/meta-rdk-wan) |
+
+</div>
 
 ## Interests
 
@@ -51,4 +57,7 @@ I'm passionate about open-source development, Artificial Intelligence, and creat
 
 ---
 
-**GitHub**: [S-Parthiban-Selvaraj](https://github.com/S-Parthiban-Selvaraj)
+## Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-Parthiban-Selvaraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiban-selvaraj-30a29513a/)
