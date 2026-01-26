@@ -1,6 +1,6 @@
 # Hi, I'm Parthiban Selvaraj
 
-Senior Software Engineer at **Comcast Sky ** based in London, UK.
+Senior Software Engineer at **Comcast Sky** based in London, UK.
 
 ## What I Do
 
@@ -32,22 +32,22 @@ Beyond feature development, I'm deeply involved in **system-level design and mod
 ![xPON](https://img.shields.io/badge/xPON-00C853?style=for-the-badge)
 ![DOCSIS](https://img.shields.io/badge/DOCSIS-0066CC?style=for-the-badge)
 
-
-
 ## Open Source Contributions
 
-As one of the **core developers and architects** in the RDK Central community, I actively contribute to several critical broadband infrastructure projects:
+Find my work as a **core developer and architect** in these RDK Central projects:
 
 <div align="center">
 
-| Project | Description | Repository |
-|---------|-------------|------------|
-| 🌐 **WAN Manager** | Core WAN management framework for RDK-B devices | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/wan-manager) |
-| 🔌 **DHCP Manager** | DHCPv4/v6 client and configuration management | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/dhcp-manager) |
-| 📡 **EPON Manager** | Ethernet Passive Optical Network management | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/epon-manager) |
-| ⚙️ **RDK-B HAL Interface - EPON** | Hardware abstraction layer for EPON devices | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/rdkb-halif-epon) |
-| 🏠 **Inter-Device Manager** | Cross-device communication framework for smart homes | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/inter-device-manager) |
-| 📦 **Meta RDK WAN** | Yocto layer for WAN components integration | [![GitHub](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/meta-rdk-wan) |
+[![wan-manager](https://img.shields.io/badge/wan--manager-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/wan-manager)
+[![dhcp-manager](https://img.shields.io/badge/dhcp--manager-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/dhcp-manager)
+[![vlan-manager](https://img.shields.io/badge/vlan--manager-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/vlan-manager)
+[![xdsl-manager](https://img.shields.io/badge/xdsl--manager-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/xdsl-manager)
+[![epon-manager](https://img.shields.io/badge/epon--manager-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/epon-manager)
+
+[![rdkb-halif-epon](https://img.shields.io/badge/rdkb--halif--epon-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/rdkb-halif-epon)
+[![inter-device-manager](https://img.shields.io/badge/inter--device--manager-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/inter-device-manager)
+[![ipoe-health-check](https://img.shields.io/badge/ipoe--health--check-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/ipoe-health-check)
+[![meta-rdk-wan](https://img.shields.io/badge/meta--rdk--wan-181717?style=for-the-badge&logo=github)](https://github.com/rdkcentral/meta-rdk-wan)
 
 </div>
 
