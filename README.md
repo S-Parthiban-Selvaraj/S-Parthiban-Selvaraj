@@ -1,12 +1,12 @@
 # Hi, I'm Parthiban Selvaraj
 
-Senior Software Engineer at **Comcast Sky** based in London, UK.
+Senior Software Engineer at **Comcast Sky** based in London.
 
 ## What I Do
 
 I specialize in **embedded systems development for network devices**, including multi-WAN routers, gateways, and broadband infrastructure equipment. I primarily contribute to open-source projects that power millions of devices worldwide, creating robust and scalable networking solutions for residential and business broadband infrastructure.
 
-As a core contributor to the **RDK open-source ecosystem**, I focus on software architecture and design, building modular components that enhance system maintainability and extensibility. I've architected features like WAN failover mechanisms, inter-device communication frameworks, and scanning policies that optimize network connectivity. My approach emphasizes creating generic, reusable solutions that accommodate diverse hardware platforms and WAN technologies—from DOCSIS and xPON to LTE and WiFi.
+As a core contributor to the **RDK open-source ecosystem**, I focus on software architecture and design, building modular components that enhance system maintainability and extensibility. I've architected features like WAN failover mechanisms, inter-device communication frameworks, and scanning policies that optimize network connectivity. My approach emphasizes creating generic, reusable solutions that accommodate diverse hardware platforms and WAN technologies from DOCSIS and xPON to LTE and WiFi, etc
 
 Beyond feature development, I'm deeply involved in **system-level design and modularization**. I design software components that integrate seamlessly across different layers—from kernel drivers and hardware abstraction layers to application-level services. This includes collaboration between various stakeholders in the open-source community. I work extensively with Yocto build systems, Broadcom and Intel SoCs, and contribute to making embedded Linux systems more reliable and performant for next-generation broadband applications.
 
