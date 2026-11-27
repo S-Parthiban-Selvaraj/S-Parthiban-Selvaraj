@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Parthiban%20Selvaraj&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Embedded%20Linux%20%C3%97%20AI&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Parthiban Selvaraj" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=100&section=header&text=Parthiban%20Selvaraj&fontColor=ffffff&fontSize=34&fontAlignY=40&desc=Embedded%20Linux%20%C3%97%20AI&descSize=15&descAlignY=72&animation=fadeIn" width="100%" alt="Parthiban Selvaraj" />
 
-<a href="https://github.com/S-Parthiban-Selvaraj"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=20&duration=3000&pause=800&color=2C9FC5&center=true&vCenter=true&width=600&lines=Senior%20Software%20Engineer%20%40%20Sky%20%2F%20Comcast;Embedded%20Linux%20%C3%97%20AI;MCP%20servers%20%C2%B7%20AI%20agents%20%C2%B7%20Edge%20AI;WAN%20%C2%B7%20PON%20%C2%B7%20DOCSIS%20%C2%B7%20LTE%20%C2%B7%20WiFi;Open-source%20code%20on%20100M%2B%20devices" alt="Typing intro" /></a>
-
-<a href="https://www.linkedin.com/in/parthiban-selvaraj-30a29513a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
-<a href="https://github.com/S-Parthiban-Selvaraj"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
+<a href="https://github.com/S-Parthiban-Selvaraj"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=20&duration=3000&pause=800&color=00AA00&center=true&vCenter=true&width=600&height=30&lines=Senior%20Software%20Engineer%20%40%20Sky%20%2F%20Comcast;Embedded%20Linux%20%C3%97%20AI;MCP%20servers%20%C2%B7%20AI%20agents%20%C2%B7%20Edge%20AI;WAN%20%C2%B7%20PON%20%C2%B7%20DOCSIS%20%C2%B7%20LTE%20%C2%B7%20WiFi;Open-source%20code%20on%20100M%2B%20devices" alt="Typing intro" /></a>
 
 </div>
 
@@ -26,15 +23,6 @@ I'm a **Senior Software Engineer at Sky / Comcast** in London, building **embedd
 I design modular, reusable components that work across hardware platforms and WAN technologies, from **DOCSIS and xPON to LTE and WiFi**. I've built features like **WAN failover**, inter-device communication and parallel WAN scanning — spanning kernel drivers, HAL and application services on Broadcom and Intel SoCs with Yocto.
 
 Today my focus is **AI for embedded engineering**: building **MCP servers** that let LLMs work with real devices and builds, **AI agents** that debug and test firmware on hardware, and exploring **edge AI** that brings intelligence onto the gateway itself.
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="30" alt="" /> AI × Embedded
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=15&duration=2200&pause=1500&color=39D353&background=161B22&multiline=true&repeat=true&width=620&height=130&lines=%24%20regression-finder%20%22find%20what%20broke%20WAN%20failover%22;%E2%80%BA%20flashing%20image%20on%20gateway...%20%E2%9C%94;%E2%80%BA%20running%20smoke%20tests...%20%E2%9C%98%20failover%20FAIL;%E2%80%BA%20bisecting%20builds...%20%E2%9C%94%20culprit%20commit%20found;%E2%80%BA%20Jira%20updated%20%E2%9C%94%20root%20cause%20%2B%20logs%20attached" alt="Regression Finder agent: flash, smoke test, bisect, update Jira" />
-
-- 🔌 **MCP servers** — WAN, PON, DHCP & Yocto builds as LLM tools
-- 🕵️ **Dev, test & regression-finder agents** — code, build, test & bisect firmware on real hardware
-- ⚡ **AI-driven solutions** — automating embedded development, debug & delivery
-- 📟 **Edge AI** — exploring on-device inference for gateways & IoT
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="30" alt="" /> Tech Stack
 
@@ -65,7 +53,18 @@ Today my focus is **AI for embedded engineering**: building **MCP servers** that
   </tr>
 </table>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" alt="" /> Open Source — RDK Central
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="30" alt="" /> AI × Embedded
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=15&duration=2200&pause=1500&color=00AA00&background=161B22&multiline=true&repeat=true&width=620&height=130&lines=%24%20regression-finder%20%22find%20what%20broke%20WAN%20failover%22;%E2%80%BA%20flashing%20image%20on%20gateway...%20%E2%9C%94;%E2%80%BA%20running%20smoke%20tests...%20%E2%9C%98%20failover%20FAIL;%E2%80%BA%20bisecting%20builds...%20%E2%9C%94%20culprit%20commit%20found;%E2%80%BA%20Jira%20updated%20%E2%9C%94%20root%20cause%20%2B%20logs%20attached" alt="Regression Finder agent: flash, smoke test, bisect, update Jira" />
+
+- 🔌 **MCP servers** — WAN, PON, DHCP & Yocto builds as LLM tools
+- 🕵️ **Dev, test & regression-finder agents** — code, build, test & bisect firmware on real hardware
+- ⚡ **AI-driven solutions** — automating embedded development, debug & delivery
+- 📟 **Edge AI** — exploring on-device inference for gateways & IoT
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30" alt="" /> Open Source
+
+Architect & developer on these open-source components, used across the wider RDK community.
 
 <div align="center">
 
@@ -91,6 +90,13 @@ Today my focus is **AI for embedded engineering**: building **MCP servers** that
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S-Parthiban-Selvaraj/S-Parthiban-Selvaraj/output/github-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/S-Parthiban-Selvaraj/S-Parthiban-Selvaraj/output/github-snake.svg" />
 </picture>
+</div>
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="30" alt="" /> Connect with me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/parthiban-selvaraj-30a29513a/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" hspace="8" alt="LinkedIn" /></a>
+<a href="https://github.com/S-Parthiban-Selvaraj"><img src="https://skillicons.dev/icons?i=github" width="44" hspace="8" alt="GitHub" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="" />
