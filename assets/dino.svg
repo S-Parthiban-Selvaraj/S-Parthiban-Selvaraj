@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-labelledby="t">
+<title id="t">Offline dino game: no internet</title>
+<style>
+.m{font:600 17px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.ink{fill:#c9d1d9}
+@keyframes legA{0%,49.9%{opacity:1}50%,100%{opacity:0}}
+@keyframes legB{0%,49.9%{opacity:0}50%,100%{opacity:1}}
+@keyframes jump{0%,68%{transform:translateY(0);animation-timing-function:cubic-bezier(.2,.7,.4,1)}81%{transform:translateY(-80px);animation-timing-function:cubic-bezier(.6,0,.8,.3)}94%,100%{transform:translateY(0)}}
+@keyframes cactus{from{transform:translateX(0)}to{transform:translateX(-860px)}}
+@keyframes ground{from{stroke-dashoffset:0}to{stroke-dashoffset:860}}
+@keyframes cloud{from{transform:translateX(0)}to{transform:translateX(-1000px)}}
+.legA{animation:legA .24s infinite}
+.legB{animation:legB .24s infinite}
+.jump{animation:jump 3s infinite}
+.cactus{animation:cactus 3s linear infinite}
+.bumps{animation:ground 3s linear infinite}
+.cloud{animation:cloud 30s linear infinite}
+</style>
+<rect width="800" height="200" rx="12" fill="#161B22"/>
+
+<g class="cloud" fill="none" stroke="#484f58" stroke-width="3">
+  <path d="M430 112h56v-8h-8v-8h-16v-6h-14v6h-10v8h-8z"/>
+  <path d="M930 92h56v-8h-8v-8h-16v-6h-14v6h-10v8h-8z"/>
+  <path d="M1230 112h56v-8h-8v-8h-16v-6h-14v6h-10v8h-8z"/>
+</g>
+
+<text class="m" x="400" y="40" text-anchor="middle" fill="#8b949e">No internet</text>
+
+<line x1="0" y1="168" x2="800" y2="168" stroke="#8b949e" stroke-width="2"/>
+<line class="bumps" x1="0" y1="177" x2="800" y2="177" stroke="#6e7681" stroke-width="2" stroke-dasharray="3 20 6 27 2 28"/>
+
+<g transform="translate(800 122)"><g class="cactus ink"><rect x="12" y="0" width="8" height="4.6"/><rect x="12" y="4" width="8" height="4.6"/><rect x="0" y="8" width="4" height="4.6"/><rect x="12" y="8" width="8" height="4.6"/><rect x="0" y="12" width="4" height="4.6"/><rect x="12" y="12" width="8" height="4.6"/><rect x="28" y="12" width="4" height="4.6"/><rect x="0" y="16" width="4" height="4.6"/><rect x="12" y="16" width="8" height="4.6"/><rect x="28" y="16" width="4" height="4.6"/><rect x="0" y="20" width="20" height="4.6"/><rect x="28" y="20" width="4" height="4.6"/><rect x="8" y="24" width="24" height="4.6"/><rect x="12" y="28" width="8" height="4.6"/><rect x="12" y="32" width="8" height="4.6"/><rect x="12" y="36" width="8" height="4.6"/><rect x="12" y="40" width="8" height="4.6"/><rect x="12" y="44" width="8" height="4.6"/></g></g>
+<g transform="translate(80 92)"><g class="jump ink">
+  <rect x="40" y="0" width="32" height="4.6"/><rect x="36" y="4" width="8" height="4.6"/><rect x="48" y="4" width="28" height="4.6"/><rect x="36" y="8" width="40" height="4.6"/><rect x="36" y="12" width="40" height="4.6"/><rect x="36" y="16" width="20" height="4.6"/><rect x="36" y="20" width="32" height="4.6"/><rect x="0" y="24" width="4" height="4.6"/><rect x="32" y="24" width="20" height="4.6"/><rect x="0" y="28" width="4" height="4.6"/><rect x="28" y="28" width="24" height="4.6"/><rect x="0" y="32" width="8" height="4.6"/><rect x="24" y="32" width="40" height="4.6"/><rect x="0" y="36" width="12" height="4.6"/><rect x="20" y="36" width="36" height="4.6"/><rect x="60" y="36" width="4" height="4.6"/><rect x="0" y="40" width="56" height="4.6"/><rect x="4" y="44" width="52" height="4.6"/><rect x="8" y="48" width="48" height="4.6"/><rect x="12" y="52" width="40" height="4.6"/><rect x="16" y="56" width="32" height="4.6"/><rect x="20" y="60" width="12" height="4.6"/><rect x="36" y="60" width="8" height="4.6"/>
+  <g class="legA"><rect x="20" y="64" width="8" height="4.6"/><rect x="40" y="64" width="8" height="4.6"/><rect x="20" y="68" width="4" height="4.6"/><rect x="20" y="72" width="8" height="4.6"/></g>
+  <g class="legB"><rect x="24" y="64" width="8" height="4.6"/><rect x="40" y="64" width="4" height="4.6"/><rect x="40" y="68" width="4" height="4.6"/><rect x="40" y="72" width="8" height="4.6"/></g>
+</g></g>
+</svg>
